@@ -1,0 +1,97 @@
+1  Indian Institute of Technology Madras  AerospaceEngineering  (4Years,Bachelor of Technology)  AI  1884  3242
+2  Indian Institute of Technology Madras  CivilEngineering  (5Years,BachelorandMaster of Technology(DualDegree))  AI  3604  4573
+3  Indian Institute of Technology Delhi  MechanicalEngineering  (4Years,Bachelor of Technology)  AI  247  907
+4  Indian Institute of Technology Roorkee  ElectricalEngineering  (4Years,Bachelor of Technology)  AI  1108  1833
+5  Indian Institute of Technology Gandhinagar  ElectricalEngineering  (4Years,Bachelor of Technology)  AI  1645  2548
+6  Indian Institute of Technology Roorkee  Production and IndustrialEngineering  (4Years,Bachelor of Technology)  AI  3502  4353
+7  Indian Institute of Technology Kanpur  Earth Sciences  (4Years,Bachelor of Science)  AI  5900  7469
+8  Indian Institute of Technology Kanpur  Mathematics and Scientific Computing  (4Years,Bachelor of Science)  AI  528  976
+9  Indian Institute of Technology (BHU)Varanasi  Computer Science and Engineering  (4Years,Bachelor of Technology)  AI  500  772
+10  Indian Institute of Technology Roorkee  Computer Science and Engineering  (4Years,Bachelor of Technology)  AI  294  482
+11  Indian Institute of Technology Jodhpur  ElectricalEngineering  (4Years,Bachelor of Technology)  AI  3693  5615
+12  Indian Institute of Technology Roorkee  Bio Technology  (4Years,Bachelor of Technology)  AI  5417  6255
+13  Indian Institute of Technology Bombay  ElectricalEngineering  (5Years,BachelorandMaster of Technology(DualDegree))  AI  228  514
+14  Indian Institute of Technology Gandhinagar  ChemicalEngineering  (4Years,Bachelor of Technology)  AI  3960  5473
+15  Indian Institute of Technology Madras  MechanicalEngineering  (5Years,BachelorandMaster of Technology(DualDegree))  AI  1293  2194
+16  Indian Institute of Technology Bombay  Engineering Physics  (4Years,Bachelor of Technology)  AI  6  1041
+17  Indian Institute of Technology Kharagpur  MechanicalEngineering  (5Years,BachelorandMaster of Technology(Dual Degree))  AI  1561  2299
+18  Indian Institute of Technology Jammu  ElectricalEngineering  (4Years,Bachelor of Technology)  AI  6821  8389
+19  Indian Institute of Technology Jammu  MechanicalEngineering  (4Years,Bachelor of Technology)  AI  6683  8624
+20  Indian Institute of Technology Kharagpur  Computer Science and Engineering  (4Years,Bachelor of Technology)  AI  181  286
+21  School of Planning & Architecture Vijayawada  Planning  (4 Years, Bachelor of Planning)  AI  3082  4369
+22  School of Planning & Architecture Vijayawada  Planning  (4 Years, Bachelor of Planning)  AI  3082  4369
+23  Assam University, Silchar  Agricultural Engineering  (4 Years, Bachelor of Technology)  HS  68627  109928
+24  Birla Institute of Technology, Mesra, Ranchi  Production Engineering  (4 Years, Bachelor of Technology)  HS  24852  37418
+25  Birla Institute of Technology, Mesra, Ranchi  Information Technology  (4 Years, Bachelor of Technology)  OS  10213  12676
+26  School of Planning & Architecture, New Delhi  Architecture  (5 Years, Bachelor of Architecture)  AI  98  975
+27  Birla Institute of Technology, Mesra, Ranchi  Chemical Engineering  (4 Years, Bachelor of Technology)  HS  26791  34514
+28  School of Planning & Architecture, New Delhi  Planning  (4 Years, Bachelor of Planning)  AI  958  2292
+29  Assam University, Silchar  Computer Science and Engineering  (4 Years, Bachelor of Technology)  AI  35575  39443
+30  Birla Institute of Technology, Mesra, Ranchi  Chemical Engineering  (4 Years, Bachelor of Technology)  OS  20801  27742
+31  Mizoram University, Aizawl  Electrical Engineering  (4 Years, Bachelor of Technology)  AI  46268  51738
+32  Mizoram University, Aizawl  Information Technology  (4 Years, Bachelor of Technology)  AI  46011  51665
+33  School of Planning & Architecture, Bhopal  Planning  (4 Years, Bachelor of Planning)  AI  2946  4089
+34  Mizoram University, Aizawl  Electronics and Communication Engineering  (4 Years, Bachelor of Technology)  AI  48900  51926
+35  School of Engineering, Tezpur University, Napaam, Tezpur  Civil Engineering  (4 Years, Bachelor of Technology)  AI  47478  52246
+36  Birla Institute of Technology, Mesra, Ranchi  Civil Engineering  (4 Years, Bachelor of Technology)  HS  25143  32871
+37  Birla Institute of Technology, Mesra, Ranchi  Civil Engineering  (4 Years, Bachelor of Technology)  OS  14051  22068
+39  School of Planning & Architecture, Bhopal  Architecture  (5 Years, Bachelor of Architecture)  AI  994  2144
+40  Birla Institute of Technology, Mesra, Ranchi  Architecture  (5 Years, Bachelor of Architecture)  OS  1077  3407
+41  Birla Institute of Technology, Mesra, Ranchi  Production Engineering  (4 Years, Bachelor of Technology)  OS  25039  33135
+42  Birla Institute of Technology, Mesra, Ranchi  Bio Technology  (4 Years, Bachelor of Technology)  HS  30360  51314
+43  Mizoram University, Aizawl  Architecture  (5 Years, Bachelor of Architecture)  AI  4050  4696
+44  Birla Institute of Technology, Mesra, Ranchi  Architecture  (5 Years, Bachelor of Architecture)  HS  2648  6481
+45  Gurukula Kangri Vishwavidyalaya, Haridwar  Mechanical Engineering  (4 Years, Bachelor of Technology)  AI  37755  50892
+46  Birla Institute of Technology, Mesra, Ranchi  Mechanical Engineering  (4 Years, Bachelor of Technology)  OS  10587  18928
+47  Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir  Architecture  (5 Years, Bachelor of Architecture)  AI  3685  4791
+48  Birla Institute of Technology, Mesra, Ranchi  Computer Science and Engineering  (4 Years, Bachelor of Technology)  HS  5851  12586
+49  Assam University, Silchar  Electronics and Communication Engineering  (4 Years, Bachelor of Technology)  AI  38060  41136
+50  School of Planning & Architecture: Vijayawada  Architecture  (5 Years, Bachelor of Architecture)  AI  1317  3542
+51  Birla Institute of Technology, Mesra, Ranchi  Bio Technology  (4 Years, Bachelor of Technology)  OS  29123  38909
+52  Gurukula Kangri Vishwavidyalaya, Haridwar  Electrical Engineering  (4 Years, Bachelor of Technology)  AI  31771  50951
+53  Sant Longowal Institute of Engineering and Technology  Food Technology  (4 Years, Bachelor of Technology)  AI  51156  54300
+54  Mizoram University, Aizawl  Civil Engineering  (4 Years, Bachelor of Technology)  AI  48417  52602
+56  Assam University, Silchar  Computer Science and Engineering  (4 Years, Bachelor of Technology)  HS  61310  84673
+57  Birla Institute of Technology, Mesra, Ranchi  Mechanical Engineering  (4 Years, Bachelor of Technology)  HS  12751  24802
+58  Assam University, Silchar  Electronics and Communication Engineering  (4 Years, Bachelor of Technology)  HS  62157  84884
+59  Indian Institute of Carpet Technology, Bhadohi  Carpet and Textile Technology  (4 Years, Bachelor of Technology)  AI  49052  53311
+61  Mizoram University, Aizawl  Computer Engineering  (4 Years, Bachelor of Technology)  AI  40679  47430
+62  Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir  Bio Technology  (4 Years, Bachelor of Technology)  AI  49573  54397
+63  Birla Institute of Technology, Mesra, Ranchi  Information Technology  (4 Years, Bachelor of Technology)  HS  14982  20307
+64  Birla Institute of Technology, Mesra, Ranchi  Computer Science and Engineering  (4 Years, Bachelor of Technology)  OS  5596  10162
+65  Sant Longowal Institute of Engineering and Technology  Chemical Engineering  (4 Years, Bachelor of Technology)  AI  39156  51566
+66  National Institute of Technology Delhi  Electronics and Communication Engineering  (4 Years, Bachelor of Technology)  OS  3539  9078
+68  Malaviya National Institute of Technology Jaipur  Architecture  (5 Years, Bachelor of Architecture)  OS  1326  2362
+69  National Institute of Technology, Tiruchirappalli  Architecture  (5 Years, Bachelor of Architecture)  OS  771  1278
+71  National Institute of Technology Puducherry  Computer Science and Engineering  (4 Years, Bachelor of Technology)  HS  49917  135250
+73  National Institute of Technology, Silchar  Electrical Engineering  (4 Years, Bachelor of Technology)  HS  32353  56140
+74  National Institute of Technology Goa  Electronics and Communication Engineering  (4 Years, Bachelor of Technology)  HS  29742  52494
+75  Maulana Azad National Institute of Technology Bhopal  Chemical Engineering  (4 Years, Bachelor of Technology)  OS  15445  21248
+76  National Institute of Technology Delhi  Computer Science and Engineering  (4 Years, Bachelor of Technology)  OS  1616  5426
+77  National Institute of Technology Delhi  Electrical and Electronics Engineering  (4 Years, Bachelor of Technology)  HS  17549  19138
+78  National Institute of Technology Raipur  Mechanical Engineering  (4 Years, Bachelor of Technology)  OS  11821  17835
+79  National Institute of Technology, Warangal  Metallurgical and Materials Engineering  (4 Years, Bachelor of Technology)  HS  9231  19743
+81  Maulana Azad National Institute of Technology Bhopal  Civil Engineering  (4 Years, Bachelor of Technology)  HS  8523  19628
+82  Visvesvaraya National Institute of Technology, Nagpur  Mechanical Engineering  (4 Years, Bachelor of Technology)  HS  1666  8982
+83  National Institute of Technology Karnataka, Surathkal  Information Technology  (4 Years, Bachelor of Technology)  OS  1489  3040
+84  National Institute of Technology Meghalaya  Electrical and Electronics Engineering  (4 Years, Bachelor of Technology)  OS  28616  33538
+87  National Institute of Technology Raipur  Information Technology  (4 Years, Bachelor of Technology)  OS  10226  16024
+88  National Institute of Technology, Silchar  Mechanical Engineering  (4 Years, Bachelor of Technology)  OS  15392  24976
+89  National Institute of Technology, Rourkela  Chemical Engineering  (4 Years, Bachelor of Technology)  OS  18458  21465
+90  National Institute of Technology Patna  Architecture  (5 Years, Bachelor of Architecture)  OS  3043  3990
+91  National Institute of Technology Durgapur  Metallurgical and Materials Engineering  (4 Years, Bachelor of Technology)  HS  32576  40898
+92  National Institute of Technology Arunachal Pradesh  Civil Engineering  (4 Years, Bachelor of Technology)  OS  28749  36454
+93  National Institute of Technology, Rourkela  Industrial Design  (4 Years, Bachelor of Technology)  HS  15469  32621
+94  National Institute of Technology, Tiruchirappalli  Civil Engineering  (4 Years, Bachelor of Technology)  OS  3252  8198
+95  National Institute of Technology Agartala  Electrical Engineering  (4 Years, Bachelor of Technology)  HS  28478  156221
+96  National Institute of Technology Goa  Electronics and Communication Engineering  (4 Years, Bachelor of Technology)  OS  9339  13000
+97  National Institute of Technology Hamirpur  Chemical Engineering  (4 Years, Bachelor of Technology)  OS  16366  24674
+98  National Institute of Technology Meghalaya  Civil Engineering  (4 Years, Bachelor of Technology)  OS  28847  35693
+100  National Institute of Technology Agartala  Civil Engineering  (4 Years, Bachelor of Technology)  OS  24180  34678
+102  National Institute of Technology, Andhra Pradesh  Mechanical Engineering  (4 Years, Bachelor of Technology)  HS  14336  23190
+104  National Institute of Technology Goa  Electrical and Electronics Engineering  (4 Years, Bachelor of Technology)  HS  30254  51047
+105  National Institute of Technology Patna  Electronics and Communication Engineering  (4 Years, Bachelor of Technology)  HS  12768  23220
+106  National Institute of Technology Patna  Mechanical Engineering  (4 Years, Bachelor of Technology)  OS  16200  22377
+108  National Institute of Technology Hamirpur  Civil Engineering  (4 Years, Bachelor of Technology)  OS  18792  23148
+109  National Institute of Technology, Jamshedpur  Civil Engineering  (4 Years, Bachelor of Technology)  OS  15536  22775
+110  Dr. B R Ambedkar National Institute of Technology, Jalandhar  Bio Technology  (4 Years, Bachelor of Technology)  OS  30528  32857
